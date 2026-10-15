@@ -1,6 +1,6 @@
 Samatha Kumbam
 
-AI & Full Stack Developer
+**AI & Full Stack Developer**
 
 I build modern web applications using React.js, Node.js, Express.js, MongoDB, and practical AI integrations.
 
@@ -19,7 +19,7 @@ What I Build
 
 ---
 
-Core Stack
+**Core Stack**
 
 Frontend
 React.js · JavaScript · Vite · Tailwind CSS · HTML · CSS
@@ -40,7 +40,7 @@ Git · GitHub · npm · Vercel · Render
 
 Featured Projects
 
-SEO Intelligence Agent
+**SEO Intelligence Agent**
 
 Full-stack SEO audit and intelligence platform
 
@@ -62,7 +62,7 @@ View Repository - (https://github.com/samatha-93/seo-intelligence-agent)
 
 ---
 
-Lumière Beauty Studio
+**Lumière Beauty Studio**
 
 Premium responsive beauty salon website
 
@@ -85,7 +85,7 @@ View Repository - (https://github.com/samatha-93/lumiere-beauty-studio) · Live 
 
 ---
 
-Professional Direction
+**Professional Direction**
 
 I am focused on becoming a stronger MERN / Full Stack Developer, with increasing depth in backend engineering, application architecture, security, testing, and practical AI integration.
 
@@ -95,7 +95,7 @@ I am also building toward becoming freelance-ready, with a focus on delivering r
 
 ---
 
-Currently Focused On
+**Currently Focused On**
 
 - Strengthening JavaScript and React fundamentals
 - Deepening Node.js and Express expertise
@@ -107,7 +107,7 @@ Currently Focused On
 
 ---
 
-Connect
+**Connect**
 
 LinkedIn:
 https://www.linkedin.com/in/samatha-kumbam-05539039b
@@ -120,6 +120,6 @@ Coming soon
 
 ---
 
-Open to
+**Open to**
 
 MERN / Full Stack Developer opportunities · Frontend Development · Freelance Web Projects
