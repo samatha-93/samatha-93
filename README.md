@@ -58,7 +58,7 @@ Highlights
 - Audit history and structured reporting
 - Automated backend testing
 
-"View Repository" (https://github.com/samatha-93/seo-intelligence-agent)
+View Repository - (https://github.com/samatha-93/seo-intelligence-agent)
 
 ---
 
@@ -79,7 +79,7 @@ Highlights
 - Client-side form validation
 - Accessibility-focused UI considerations
 
-"View Repository" (https://github.com/samatha-93/lumiere-beauty-studio) · "Live Demo" (https://lumiere-beauty-studio-one.vercel.app/)
+View Repository - (https://github.com/samatha-93/lumiere-beauty-studio) · Live Demo - (https://lumiere-beauty-studio-one.vercel.app/)
 
 «The appointment form is currently a frontend-only demonstration and does not submit bookings to a backend.»
 
